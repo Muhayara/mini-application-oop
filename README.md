@@ -133,7 +133,6 @@ Program diuji menggunakan PHP 8.3 CLI (Laragon Environment) dan menghasilkan out
 tugas-minggu-5/
 ├── main.php                                   # Source Code Utama Mini Application OOP
 ├── README.md                                  # Dokumentasi Lengkap Repositori GitHub
-├── output-mini-project.png                    # Bukti Screenshot Eksekusi Terminal
 ├── praktikum1.php                             # Hasil Praktikum 1 (Inheritance & Overriding)
 ├── praktikum2.php                             # Hasil Praktikum 2 (Polymorphism)
 ├── praktikum3.php                             # Hasil Praktikum 3 (Interface & Composition)
@@ -148,7 +147,7 @@ Pastikan PHP versi 8.0 ke atas telah terpasang di komputer Anda (atau gunakan te
 
 ```bash
 # Masuk ke direktori tugas
-cd tugas-minggu-5
+cd mini-application-oop
 
 # Jalankan program utama
 php main.php
